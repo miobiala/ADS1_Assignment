@@ -1,2 +1,2 @@
 # ADS1_Assignment
-Assignment1  for ADS
+Repository for Applied Data Science 1 Assignments
