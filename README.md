@@ -40,14 +40,14 @@ Reads annual return data for BP, Barclays, Tesco, and Vodafone.
 
 Visualizes stock performance with:
 
-Histograms
+i. Histograms
 
-Combined histograms
+ii. Combined histograms
 
-Boxplots
+iii. Boxplots
 
-Market capitalization pie charts
+iv. Market capitalization pie charts
 
-Bar charts
+v. Bar charts
 
 Provides insights into company-level performance.
